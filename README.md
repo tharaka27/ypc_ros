@@ -14,7 +14,7 @@ cd <ros_workspace>/src
 git clone https://github.com/mats-robotics/detection_msgs.git
 git clone --recurse-submodules https://github.com/tharaka27/ypc_ros.git 
 cd ypc_ros/src/yolov5
-pip install -r requirements.txt # install the requirements for yolov5
+pip3 install -r requirements.txt # install the requirements for yolov5
 ```
 * Build the ROS package:
 ```bash
