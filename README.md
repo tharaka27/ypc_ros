@@ -1,7 +1,7 @@
 # Point cloud clustering using YOLOv5 ROS
 This is a ROS node for using YOLOv5 for real time point cloud segmentation. It uses segmentation provided in the [official YOLOv5 repository](https://github.com/ultralytics/yolov5). This project is adapted from [Base ROS YOLOv5 implementation](https://github.com/mats-robotics/ypc_ros)
 
-![Alt Text](https://github.com/tharaka27/ypc_ros/blob/master/misc/video.gif)
+![Alt Text](https://github.com/tharaka27/ypc_ros/blob/main/misc/video.gif)
 
 ## Installation
 
@@ -28,8 +28,8 @@ chmod +x detect.py
 chmod +x cluster.py
 chmod +x camera_info.py
 ```
-![Alt Text](https://github.com/tharaka27/ypc_ros/blob/master/misc/archi.png)
 
+![Alt Text](https://github.com/tharaka27/ypc_ros/blob/main/misc/archi.png)
 
 ## Basic usage
 
